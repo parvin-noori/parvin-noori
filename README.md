@@ -10,6 +10,7 @@ I'm a passionate front-end developer with a love for creating visually appealing
     Frameworks & Libraries: React, jQuery, swiper
     Styling: SASS, Bootstrap, Tailwind CSS,Chakra,MUI
     Tools: Git,npm
+    
 
 ## 📁 Projects
 Project 1: [Tipay Website Redesign](https://parvin-noori.github.io/tipay/)
@@ -19,10 +20,12 @@ Project 2: [sahab Website Redesign](https://parvin-noori.github.io/sahab/)
 Project 3: [TED Website Redesign](https://parvin-noori.github.io/ted/)
 
 
+
 ## 🌱 Currently Learning
 
     React.js
     Next.js
+    
 
 ## 📫 How to Reach Me
 

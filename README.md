@@ -30,6 +30,7 @@ project 6: [fastFood Catalogue](https://github.com/parvin-noori/fast-food-catalo
 
 project 6: [admin dashboard](https://github.com/parvin-noori/admin-dashboard)
 
+project 6: [redesign namava](https://github.com/parvin-noori/namava)
 
 
 

@@ -16,21 +16,21 @@ Tools: Git,npm
     
 
 ## 📁 Projects
-Project 1: [Tipay Website Redesign](https://github.com/parvin-noori/tipay)
+Project 1: [Tipay Website redevelop](https://github.com/parvin-noori/tipay)
 
-Project 2: [Sahab Website Redesign](https://github.com/parvin-noori/sahab)
+Project 2: [Sahab Website redevelop](https://github.com/parvin-noori/sahab)
 
-Project 3: [TED Website Redesign](https://github.com/parvin-noori/ted)
+Project 3: [TED Website redevelop](https://github.com/parvin-noori/ted)
 
 Project 4: [Quiz app](https://github.com/parvin-noori/quizApp)
 
-Project 5: [masterClass website redesign](https://github.com/parvin-noori/masterClass)
+Project 5: [MasterClass website redesign](https://github.com/parvin-noori/masterClass)
 
-project 6: [fastFood Catalogue](https://github.com/parvin-noori/fast-food-catalogue)
+project 6: [FastFood Catalogue](https://github.com/parvin-noori/fast-food-catalogue)
 
-project 7: [admin dashboard](https://github.com/parvin-noori/admin-dashboard)
+project 7: [Admin dashboard](https://github.com/parvin-noori/admin-dashboard)
 
-project 8: [redesign namava](https://github.com/parvin-noori/namava)
+project 8: [namava website redevelop](https://github.com/parvin-noori/namava)
 
 
 

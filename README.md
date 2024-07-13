@@ -28,9 +28,9 @@ Project 5: [masterClass website redesign](https://github.com/parvin-noori/master
 
 project 6: [fastFood Catalogue](https://github.com/parvin-noori/fast-food-catalogue)
 
-project 6: [admin dashboard](https://github.com/parvin-noori/admin-dashboard)
+project 7: [admin dashboard](https://github.com/parvin-noori/admin-dashboard)
 
-project 6: [redesign namava](https://github.com/parvin-noori/namava)
+project 8: [redesign namava](https://github.com/parvin-noori/namava)
 
 
 

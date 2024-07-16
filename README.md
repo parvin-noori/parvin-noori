@@ -8,7 +8,7 @@ I'm a passionate front-end developer with a love for creating visually appealing
 
 **Languages:** HTML, CSS, JavaScript
 
-**Frameworks & Libraries:** React, jQuery, Swiper, shadCn, Framer Motion
+**Frameworks & Libraries:** React, jQuery, Swiper, shadcn/ui, Framer Motion
 
 **Styling:** SASS, Bootstrap, Tailwind CSS, Chakra UI, MUI
 

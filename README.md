@@ -6,13 +6,16 @@ I'm a passionate front-end developer with a love for creating visually appealing
 
 ## 🔧 Technologies & Tools
 
-Languages: HTML, CSS, JavaScript 
+**Languages:** HTML, CSS, JavaScript
 
-Frameworks & Libraries: React, jQuery, swiper
+**Frameworks & Libraries:** React, jQuery, Swiper, shadCn, Framer Motion
 
-Styling: SASS, Bootstrap, Tailwind CSS,Chakra,MUI
+**Styling:** SASS, Bootstrap, Tailwind CSS, Chakra UI, MUI
 
-Tools: Git,npm
+**Tools:** Git, npm
+```
+
+This structure keeps your technologies organized and clearly presents your expertise.
     
 
 ## 📁 Projects

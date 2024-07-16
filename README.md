@@ -13,9 +13,6 @@ I'm a passionate front-end developer with a love for creating visually appealing
 **Styling:** SASS, Bootstrap, Tailwind CSS, Chakra UI, MUI
 
 **Tools:** Git, npm
-```
-
-This structure keeps your technologies organized and clearly presents your expertise.
     
 
 ## 📁 Projects

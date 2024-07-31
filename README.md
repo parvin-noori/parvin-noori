@@ -30,6 +30,8 @@ FastFood Catalogue: [Source Code](https://github.com/parvin-noori/fast-food-cata
 
 Admin dashboard: [Source Code](https://github.com/parvin-noori/admin-dashboard)
 
+Foodies: [source code](https://foodies-fastfood.netlify.app)
+
 Namava website redevelop: [Source Code](https://github.com/parvin-noori/namava)
 
 

@@ -20,10 +20,25 @@ I'm a passionate front-end developer with a love for creating visually appealing
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvinnoori.dev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pariiinoo)
 
+# 📁 Projects
+Tipay Website redevelop: [Source Code](https://github.com/parvin-noori/tipay)
 
-# 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvin-noori&show_icons=true&theme=transparent)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvin-noori&show_icons=true&theme=transparent)](https://github.com/parvin-noori/github-readme-stats)<br/>
+Sahab Website redevelop: [Source Code](https://github.com/parvin-noori/sahab)
+
+TED Website redevelop: [Source Code](https://github.com/parvin-noori/ted)
+
+Quiz app: [Source Code](https://github.com/parvin-noori/quizApp)
+
+MasterClass website redevelop: [Source Code](https://github.com/parvin-noori/masterClass)
+
+FastFood Catalogue: [Source Code](https://github.com/parvin-noori/fast-food-catalogue)
+
+Admin dashboard: [Source Code](https://github.com/parvin-noori/admin-dashboard)
+
+Foodies: [source code](https://github.com/parvin-noori/foodies)
+
+Namava website redevelop: [Source Code](https://github.com/parvin-noori/namava)
+
 
 
 ![](https://komarev.com/ghpvc/?username=parvin-noori&style=for-the-badge)

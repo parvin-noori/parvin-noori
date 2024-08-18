@@ -26,4 +26,4 @@ I'm a passionate front-end developer with a love for creating visually appealing
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvin-noori&show_icons=true&theme=transparent)](https://github.com/parvin-noori/github-readme-stats)<br/>
 
 
-![](https://komarev.com/ghpvc/?username=parvin-noori)
+![](https://komarev.com/ghpvc/?username=parvin-noori&style=for-the-badge)

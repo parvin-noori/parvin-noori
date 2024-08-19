@@ -1,5 +1,5 @@
 # Hi , I'm Parvin noori 👋 
-I'm a passionate front-end developer with a love for creating visually appealing and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, and problem-solvin.
+I'm a passionate front-end developer with a love for creating visually appealing and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, and problem-solving.
 
 
 # 📁 Projects

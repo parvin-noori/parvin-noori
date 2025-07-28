@@ -1,25 +1,6 @@
 # Hi , I'm Parvin noori 👋 
-I'm a passionate front-end developer with a love for creating visually appealing and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, and problem-solving.
+I build what you click, scroll, and swipe every day. HTML, CSS, JavaScript, and React are my tools—creating clean, interactive experiences is my game. Let's make the web feel alive!
 
-
-# 📁 Projects
-Tipay Website redevelop: [Source Code](https://github.com/parvin-noori/tipay)
-
-Sahab Website redevelop: [Source Code](https://github.com/parvin-noori/sahab)
-
-TED Website redevelop: [Source Code](https://github.com/parvin-noori/ted)
-
-Quiz app: [Source Code](https://github.com/parvin-noori/quizApp)
-
-MasterClass website redevelop: [Source Code](https://github.com/parvin-noori/masterClass)
-
-FastFood Catalogue: [Source Code](https://github.com/parvin-noori/fast-food-catalogue)
-
-Admin dashboard: [Source Code](https://github.com/parvin-noori/admin-dashboard)
-
-Foodies: [source code](https://github.com/parvin-noori/foodies)
-
-Namava website redevelop: [Source Code](https://github.com/parvin-noori/namava)
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,26 +24,12 @@ Namava website redevelop: [Source Code](https://github.com/parvin-noori/namava)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvin-noori)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvinnoori.dev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pariiinoo)
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/pariiinoo)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parvin-noori&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=parvin-noori&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvin-noori&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
+<image src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parvin-noori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parvin-noori&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=parvin-noori&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
